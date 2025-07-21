@@ -81,7 +81,7 @@ See attached video showing:
 - Trash contents
 - Log file entries
 - Restoration of a file
-
+[Download Demo Video](Demo.mp4)
 ###### rm 
 ```bash
 #!/bin/bash
