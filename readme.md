@@ -81,7 +81,13 @@ See attached video showing:
 - Trash contents
 - Log file entries
 - Restoration of a file
-[Download Demo Video](Demo.mp4)
+
+
+https://github.com/user-attachments/assets/7b68ee8c-7457-490c-8345-fa536964646a
+
+
+
+
 ###### rm 
 ```bash
 #!/bin/bash
